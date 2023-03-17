@@ -4,6 +4,8 @@ I have been studying programming for 2 years, during these years I have encourag
 
 "If you're even a little bit good, you know you can be better." -----Lindsey Buckingham----- After 2 years of study, I am ready to practice, as Zig Ziglar said: “There is no elevator to success, you need to climb the stairs.” <br />
 
+Follow me on Linkedin <br />
+
 <a href="https://www.linkedin.com/in/utkir-kurbanov-85144a160/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="30px">
 </a>
