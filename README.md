@@ -9,3 +9,9 @@ Follow me on Linkedin <br />
 <a href="https://www.linkedin.com/in/utkir-kurbanov-85144a160/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="30px">
 </a>
+
+<br />
+
+- 📍 &nbsp; Current location: Karshi, Uzbekistan
+- 📄 &nbsp; Ask me about anything, I'm happy to help
+- 📨 &nbsp; How to reach me: [@developer_2700](https://www.instagram.com/developer_2700/)     
